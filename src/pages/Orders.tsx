@@ -1,9 +1,9 @@
 import { SectionContainer } from "../components/ui/SectionContainer";
 
-export default function Home() {
+export default function Orders() {
   return (
     <SectionContainer>
-      Home
+      Orders
     </SectionContainer>
   )
 }

@@ -1,9 +1,9 @@
 import { SectionContainer } from "../components/ui/SectionContainer";
 
-export default function Home() {
+export default function Users() {
   return (
     <SectionContainer>
-      Home
+      Users
     </SectionContainer>
   )
 }
